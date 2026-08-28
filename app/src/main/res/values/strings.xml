@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TikDownload</string>
+    <string name="subtitle">Pengunduh file video dari URL HTTPS langsung.</string>
+    <string name="url_hint">Tempel URL file video langsung</string>
+    <string name="process">Periksa URL</string>
+    <string name="download">Download</string>
+    <string name="status_idle">Belum ada URL yang diproses.</string>
+    <string name="enter_url">Masukkan URL terlebih dahulu.</string>
+    <string name="https_required">URL harus menggunakan HTTPS.</string>
+    <string name="ready_status">URL siap diunduh.</string>
+    <string name="download_description">Mengunduh video ke folder Movies/TikDownload.</string>
+    <string name="download_started">Download dimulai. Cek notifikasi atau folder Movies/TikDownload.</string>
+    <string name="legal_note">Gunakan hanya URL media yang memang boleh kamu unduh.</string>
+</resources>
